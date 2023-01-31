@@ -1,6 +1,6 @@
 ## 💯 There is no substitute
 
-<img align='right' width='50%' alt='readme' src="https://github-readme-stats.vercel.app/api?username=orange-wu&show_icons=true&theme=vue-dark" />
+<img align='right' width='50%' alt='readme' src="https://github-readme-stats.vercel.app/api?username=orange-wu&show_icons=true&theme=onedark" />
 
 <p align='left'>
   <img src="https://img.shields.io/badge/-java-f6da1c?style=flat-square&logo=Jameson&logoColor=white"/>
